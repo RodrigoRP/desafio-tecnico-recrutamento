@@ -1,7 +1,3 @@
-# desafio-tecnico-recrutamento
-
-# Processo Seletivo Vagas - Engenheiro(a) de Software
-
 ## Recrutando candidatos
 
 Um recrutador precisa analisar as candidaturas recebidas para vagas de emprego. Dado o grande volume de candidaturas em algumas vagas, olhar um a um seria um trabalho muito demorado.
